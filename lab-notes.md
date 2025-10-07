@@ -1,5 +1,7 @@
 # Lab Notes
 ## What We Did Today
+## Partner's Contribution
+- Added my name and a new bullet point
 - Created a GitHub repository
 - Cloned it to our local computer
 - Learned Markdown syntax
